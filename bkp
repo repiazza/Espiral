@@ -1,0 +1,41 @@
+        // case SECOND_QD:
+        //     pointX = ((-x)*radius);
+        //     pointY = radius - (y*radius);
+        //     break
+        // case THIRD_QD:
+        //     pointX = ((-x)*radius);
+        //     pointY = radius - ((-y)*radius);
+        //     break
+        // case FOURTH_QD:
+        //     pointX = (x*radius);
+        //     pointY = radius - ((-y)*radius);
+        // break
+
+  
+  // for ( let deg = 0; deg < 360; deg++ ) {
+    // color = "black";
+    // alert(deg/8 - deg%8)
+    // radius + (deg/8 - deg%8)
+    // radius = radius + 1;
+    // drawPoint(this.ctx, ideg++,  radius , color);
+  // }
+  // radius ++
+  
+
+  // if ( (ideg % 255) == 0 ){
+  //   colorndx = ( Math.trunc(ideg/255) ) > (256-1) ? (Math.trunc(ideg/255)%255) : Math.trunc(ideg/255)
+  // }
+  
+  // alert (colorndx);
+
+  //  color = get_rgb(255 + 0        + 0);
+  //  color = get_rgb(0    + 256 + 0);
+  //  color = get_rgb(0    + 0        + 256*256);
+  // if ( cicle == 1 )
+  //   color ="#ff0000"
+  // if ( cicle == 2 )
+  //   color ="#00ff00"
+  // if ( cicle == 3 )
+  //   color ="#0000ff"
+  // color = get_rgb(ideg);
+
