@@ -99,8 +99,8 @@ var Game = {};
 
 Game.load = function () {
   return [
-      Loader.loadImage('tiles', '../assets/tiles.png'),
-      Loader.loadImage('hero', '../assets/character.png')
+      Loader.loadImage('tiles', 'assets/tiles.png'),
+      Loader.loadImage('hero', 'assets/character.png')
   ];
 }
 Game.init = function () {
